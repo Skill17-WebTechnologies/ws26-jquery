@@ -1,0 +1,7 @@
+{
+  "name": "ws26-jquery",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "jquery": "4.0.0" }
+}
